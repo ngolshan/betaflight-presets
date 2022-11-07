@@ -597,6 +597,32 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.3/modes/NG Acro Aux Setup.txt",
+      "hash": "8a585527eb66aa5c0644da9c69d81e1b502ec687d1ad8d36143c8ba437efd93c",
+      "title": "NG Whoop Aux Setup",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "MODES",
+      "status": "COMMUNITY",
+      "keywords": [],
+      "author": "NG",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/modes/NG Whoop Aux Setup.txt",
+      "hash": "d33c4c158da0960c1b0e3e3603b3a10ab1c04ca38cb837499892343a6e47e323",
+      "title": "NG Whoop Aux Setup",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "MODES",
+      "status": "COMMUNITY",
+      "keywords": [],
+      "author": "NG",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.3/modes/defaults.txt",
       "hash": "16a19e27a46efcd9f86d56f17e8fe82356921399cc0c5502e257e33ef8c321c3",
       "title": "Default 4.3 Modes and Adjustment settings",
@@ -822,8 +848,22 @@
       "priority": 10000
     },
     {
+      "fullPath": "presets/4.3/rates/NG Acro.txt",
+      "hash": "6a81b4b6f88687ce7aa90e92ba35c7b2bc510e3275924ccfe5a839f6b5cdc720",
+      "title": "NG Personal Acro Rates",
+      "firmware_version": [
+        "4.3",
+        "4.4"
+      ],
+      "category": "RATES",
+      "status": "COMMUNITY",
+      "keywords": [],
+      "author": "NG",
+      "priority": 10000
+    },
+    {
       "fullPath": "presets/4.3/rates/NG Whoop.txt",
-      "hash": "cd5203d7457ead93bd0707a934ae15a725e26b8c1c56bfc26f1739eba3af8aa2",
+      "hash": "4bb8d66714e71e5a9d41b46ceb0d8bb59be079ba60be08ce6a3bd6fd6189c579",
       "title": "NG Personal Whoop Rates",
       "firmware_version": [
         "4.3",
